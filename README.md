@@ -28,13 +28,6 @@ To deploy safely without permanently altering your global system security postur
 1. Log in to your [NordVPN Access Tokens Dashboard](https://my.nordaccount.com/dashboard/nordvpn/access-tokens/).
 2. Generate your access token.
 3. **Copy it and save it straight away**, as it will not be displayed again once you leave the screen.
-
-| Step | Action 
-| --- | --- | --- |
-| **1** | Click Generate Token |
-| **2** | Set Token to "Doesn't Expire" |
-| **3** | Copy the Token |
-
 ---
 
 ## 🛠️ How To Use the PowerShell Script
