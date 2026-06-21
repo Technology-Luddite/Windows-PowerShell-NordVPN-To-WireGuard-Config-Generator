@@ -29,7 +29,7 @@ To deploy safely without permanently altering your global system security postur
 2. Generate your access token.
 3. **Copy it and save it straight away**, as it will not be displayed again once you leave the screen.
 
-| Step | Action | Screenshot Placeholder |
+| Step | Action 
 | --- | --- | --- |
 | **1** | Click Generate Token |
 | **2** | Set Token to "Doesn't Expire" |
