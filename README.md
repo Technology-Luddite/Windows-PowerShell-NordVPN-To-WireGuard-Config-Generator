@@ -31,9 +31,9 @@ To deploy safely without permanently altering your global system security postur
 
 | Step | Action | Screenshot Placeholder |
 | --- | --- | --- |
-| **1** | Click Generate Token | `![Generate New Token Screenshot](docs/generate_token.png)` |
-| **2** | Set Token to "Doesn't Expire" | `![Token Does Not Expire Screenshot](docs/token_no_expire.png)` |
-| **3** | Copy the Token | `![Copy Access Token Screenshot](docs/copy_token.png)` |
+| **1** | Click Generate Token |
+| **2** | Set Token to "Doesn't Expire" |
+| **3** | Copy the Token |
 
 ---
 
